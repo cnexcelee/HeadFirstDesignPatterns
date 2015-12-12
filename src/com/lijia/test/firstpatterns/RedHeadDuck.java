@@ -1,15 +1,15 @@
 package com.lijia.test.firstpatterns;
 
 /**
- * 绿头鸭子
+ * 红头鸭子
  * @author lijia
  *
  */
-public class MallarDuck extends Duck {
+public class RedHeadDuck extends Duck {
 
 	@Override
 	public void display() {
-		System.out.println("MallarDuck");
+		System.out.println("RedHeadDuck");
 	}
 
 }
