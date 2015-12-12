@@ -10,7 +10,7 @@ public abstract class Duck {
 	 * 嘎嘎叫
 	 */
 	public void quack(){
-		System.out.println(" quack quack !!!");
+		System.out.println(" quack gaga!!!");
 	}
 	
 	/**
